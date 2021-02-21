@@ -1,0 +1,13 @@
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.csprojAssemblyReference.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.AssemblyInfoInputs.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.AssemblyInfo.cs
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.csproj.CoreCompileInputs.cache
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.exe
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.deps.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.runtimeconfig.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.runtimeconfig.dev.json
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.dll
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.pdb
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.dll
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.pdb
+A:\Users\03 -  Estudos\DIO\Bootcamp_LocalizaLabs\SeriesRegistration\SeriesRegistration\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.genruntimeconfig.cache
