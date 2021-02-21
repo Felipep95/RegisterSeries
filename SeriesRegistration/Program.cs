@@ -91,7 +91,6 @@ namespace SeriesRegistration
                 description: enterDescription);
 
             repository.Insert(newSerie);
-            //continuar no minuto 12
         }
 
         private static void UpdateSerie()
